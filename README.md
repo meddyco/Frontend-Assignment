@@ -23,8 +23,8 @@ There are some constraints that you should be aware of. Not completing any of th
 
 ### Assessment
 You will be given a score based on the following criteria:
-1. **code quality**. 
-2. **application performance**. We will be using [PageSpeed Insights](https://pagespeed.web.dev/) to measure the performance of your application.
+1. **Code quality**. 
+2. **Application performance**. We will be using [PageSpeed Insights](https://pagespeed.web.dev/) to measure the performance of your application.
 3. **Automated testing**: It is up to you which automated testing framework/type you will use.
 4. **SEO** : We will be using [This tool](https://smallseotools.com/website-seo-score-checker/) to measure the SEO score of your application.
 
