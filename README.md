@@ -6,7 +6,7 @@ For this assignment, you will be creating a simple frontend application based on
 that fetches and shows a list of posts from an endpointز
 ### Functions
 You will be using [DummyAPI.io](https://dummyapi.io/) to fetch the data and display it on the frontend, 
-an App ID will be shared over email for DummyAPI. You have to implement the following pages:
+You can create a free account or ask us to provide you with an ID. You have to implement the following pages:
 1. Homepage: Shows 12 posts from the API. It also has load more button that fetches more posts when clicked. if you clicked 
 on post card, it should navigate to the post page.
 ![Home Page](./HeliumBook_HomePage.jpg)
